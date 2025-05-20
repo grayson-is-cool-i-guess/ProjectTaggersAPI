@@ -1,0 +1,25 @@
+# Release 3.8.0
+> Source code can be found at <https://no.youarenotgettingthe.src>
+
+gubbler bubbler
+
+# Also, if you cant grab snowballs it is another mod in your plugins, not the menu.
+
+```diff
+FIXED:
++ Menu
+
+ADDED:
++ Serversided Size Changer
++ Add Soccer Point
++ Start Soccer Game
++ End Soccer Game
++ Experimental Break Soccer Game
+
+REMOVED:
+- idk
+
+```
+> I'm always open to suggestions, feel free to put them in <#1318832397638434907>!
+> trust, i didnt take this from iis discord
+||@everyone||

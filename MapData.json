@@ -1,0 +1,84 @@
+{
+  "Maps": [
+    {
+      "Name": "Beginner Block",
+      "Index": "BEGINNERBLOCK"
+    },
+    {
+      "Name": "Apollo's Mansion",
+      "Index": "APOLLOMANSION"
+    },
+    {
+      "Name": "MonkeVille",
+      "Index": "MONKEVILLE"
+    },
+    {
+      "Name": "International Space Station",
+      "Index": "ISS"
+    },
+    {
+      "Name": "Brick Battle",
+      "Index": "BRICKBATTLE"
+    },
+    {
+      "Name": "The End",
+      "Index": "END"
+    },
+    {
+      "Name": "Bikini Bottom",
+      "Index": "BIKINIBOTTOM"
+    },
+    {
+      "Name": "Whomp's Fortress",
+      "Index": "SM64_WHOMP"
+    },
+    {
+      "Name": "Old Gorilla Tag",
+      "Index": "OLD_TAG"
+    },
+    {
+      "Name": "Capture The Flag!",
+      "Index": "CAPTURE_THE_FLAG"
+    },
+    {
+      "Name": "Grayson's MC Hide N Seek Map",
+      "Index": "MINECRAFT_NEWWORLD"
+    },
+    {
+      "Name": "Gorilla Tag Gets Bigger",
+      "Index": "GORILLATAGGETSBIGGER"
+    },
+    {
+      "Name": "The Box",
+      "Index": "THEBOX"
+    },
+    {
+      "Name": "Bob-omb Battlefield",
+      "Index": "BOBOMBBATTLEFIELD"
+    },
+    {
+      "Name": "Lethal Lava Land",
+      "Index": "LLL"
+    },
+    {
+      "Name": "Betle's Room",
+      "Index": "BETLE_ROOM"
+    },
+    {
+      "Name": "Pocket Monsters",
+      "Index": "POKEMON"
+    },
+    {
+      "Name": "Infdev (Minecraft)",
+      "Index": "INFDEV"
+    },
+    {
+      "Name": "PitLobby",
+      "Index": "PITLOBBY"
+    },
+    {
+      "Name": "Super Mario Galaxy: Peach's Castle",
+      "Index": "SM_GALAXY"
+    },
+  ]
+}
