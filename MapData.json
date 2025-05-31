@@ -33,10 +33,6 @@
       "Index": "BIKINIBOTTOM"
     },
     {
-      "Name": "Whomp's Fortress",
-      "Index": "SM64_WHOMP"
-    },
-    {
       "Name": "Grayson's MC Hide N Seek Map",
       "Index": "MINECRAFT_NEWWORLD"
     },
@@ -53,6 +49,18 @@
       "Index": "BOBOMBBATTLEFIELD"
     },
     {
+      "Name": "Whomp's Fortress",
+      "Index": "SM64_WHOMP"
+    },
+    {
+      "Name": "Cool, Cool Mountains",
+      "Index": "COOLCOOLMTNS"
+    },
+    {
+      "Name": "Super Mario Galaxy: Peach's Castle",
+      "Index": "SM_GALAXY"
+    },
+    {
       "Name": "Lethal Lava Land",
       "Index": "LLL"
     },
@@ -63,10 +71,6 @@
     {
       "Name": "PitLobby",
       "Index": "PITLOBBY"
-    },
-    {
-      "Name": "Super Mario Galaxy: Peach's Castle",
-      "Index": "SM_GALAXY"
     },
     {
       "Name": "NYC (New York)",
