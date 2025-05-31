@@ -1,8 +1,12 @@
 {
   "Maps": [
     {
-      "Name": "Beginner Block",
+      "Name": "GKZ_BeginnerBlock",
       "Index": "BEGINNERBLOCK"
+    },
+    {
+      "Name": "GKZ_HardBlock",
+      "Index": "HARDBLOCK"
     },
     {
       "Name": "Apollo's Mansion",
@@ -33,14 +37,6 @@
       "Index": "SM64_WHOMP"
     },
     {
-      "Name": "Old Gorilla Tag",
-      "Index": "OLD_TAG"
-    },
-    {
-      "Name": "Capture The Flag!",
-      "Index": "CAPTURE_THE_FLAG"
-    },
-    {
       "Name": "Grayson's MC Hide N Seek Map",
       "Index": "MINECRAFT_NEWWORLD"
     },
@@ -61,14 +57,6 @@
       "Index": "LLL"
     },
     {
-      "Name": "Betle's Room",
-      "Index": "BETLE_ROOM"
-    },
-    {
-      "Name": "Pocket Monsters",
-      "Index": "POKEMON"
-    },
-    {
       "Name": "Infdev (Minecraft)",
       "Index": "INFDEV"
     },
@@ -79,6 +67,10 @@
     {
       "Name": "Super Mario Galaxy: Peach's Castle",
       "Index": "SM_GALAXY"
+    },
+    {
+      "Name": "NYC (New York)",
+      "Index": "NYC"
     },
   ]
 }
