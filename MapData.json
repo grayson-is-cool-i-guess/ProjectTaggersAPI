@@ -76,5 +76,9 @@
       "Name": "Alcatraz Prison",
       "Index": "ALCATRAZPRISON"
     },
+    {
+      "Name": "Wireframe Parkour",
+      "Index": "WIREPARKOUR"
+    },
   ]
 }
