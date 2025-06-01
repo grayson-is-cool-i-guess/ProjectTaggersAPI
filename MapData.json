@@ -72,5 +72,9 @@
       "Name": "NYC (New York)",
       "Index": "NYC"
     },
+    {
+      "Name": "Alcatraz Prison",
+      "Index": "ALCATRAZPRISON"
+    },
   ]
 }
