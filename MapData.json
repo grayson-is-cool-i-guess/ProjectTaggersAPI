@@ -1,10 +1,6 @@
 {
   "Maps": [
     {
-      "Name": "test",
-      "Index": "test"
-    },
-    {
       "Name": "GKZ_BeginnerBlock",
       "Index": "BEGINNERBLOCK"
     },
@@ -59,10 +55,6 @@
     {
       "Name": "Super Mario Galaxy: Peach's Castle",
       "Index": "SM_GALAXY"
-    },
-    {
-      "Name": "Lethal Lava Land",
-      "Index": "LLL"
     },
     {
       "Name": "Infdev (Minecraft)",
