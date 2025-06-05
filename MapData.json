@@ -1,6 +1,10 @@
 {
   "Maps": [
     {
+      "Name": "test",
+      "Index": "Test"
+    },
+    {
       "Name": "GKZ_BeginnerBlock",
       "Index": "BEGINNERBLOCK"
     },
